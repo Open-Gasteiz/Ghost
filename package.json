@@ -1,0 +1,25 @@
+{
+  "name": "ghost-presentation",
+  "version": "0.0.0",
+  "description": "A Ghost presentation for Open Gasteiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Open-Gasteiz/Ghost.git"
+  },
+  "keywords": [
+    "Ghost",
+    "Javascript",
+    "presentation",
+    "blogging"
+  ],
+  "author": "@jonabasque",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Open-Gasteiz/Ghost/issues"
+  },
+  "homepage": "https://github.com/Open-Gasteiz/Ghost#readme"
+}
