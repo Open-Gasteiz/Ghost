@@ -1,8 +1,5 @@
 /*index entry point*/
-const headerCSS = require('components/header/header.css');
-const mainCSS = require('components/main/main.css');
-const asideCSS = require('components/aside/aside.css');
-const footerCSS = require('components/footer/footer.css');
+const indexCSS = require('./index.css');
 
 var headerTemplate = require('components/header/header.js');
 var mainTemplate = require('components/main/main.js');

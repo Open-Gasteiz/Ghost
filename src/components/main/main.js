@@ -1,3 +1,9 @@
-const slidesCSS = require('components/slides/slides.css');
+var slidesTemplate = require('../slides/slides.js');
 
-var slidesTemplate = require('components/slides/slides.js');
+const mainCSS = require('./main.css');
+
+var data = {};
+
+var mainHTML = `${slidesTemplate}`;
+
+module.exports = mainHTML;
