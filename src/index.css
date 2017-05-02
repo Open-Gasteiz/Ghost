@@ -1,0 +1,17 @@
+/* Global Styles */
+html,
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+body {
+    font-size: 120%;
+    font-family: Helvetica,Arial,sans-serif;
+    color: #000;
+}
+
+    #container {
+        display: flex;
+        flex-direction: column;
+    }
