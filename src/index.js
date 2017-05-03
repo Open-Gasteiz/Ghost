@@ -1,4 +1,5 @@
 /*index entry point*/
+const resetCSS = require('./vendors/css/reset.css');
 const indexCSS = require('./index.css');
 
 var headerTemplate = require('./components/header/header.js');
